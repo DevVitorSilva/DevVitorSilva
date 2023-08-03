@@ -1,7 +1,7 @@
 # Olá, me chamo Vitor Silva!
 ## Bem vindo ao meu perfil do GitHub 👋 
 - Atualmente estou estudando desenvolvimento web
-- Atualmente estou aprendendo VueJs 3
+- Atualmente estou aprendendo ReactJS
 
 ## Ferramentas e Tecnologias
 <div style="display: flex;">
@@ -23,13 +23,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40"/>
 
 </div>
-
+<!--
 <div>
   <a href="https://github.com/DevVitorSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVitorSilva&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevVitorSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
-
+-->
 <!-- ![Snake animation](https://github.com/DevVitorSilva/DevVitorSilva/blob/output/github-contribution-grid-snake.svg)-->
 
           
