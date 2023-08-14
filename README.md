@@ -1,6 +1,7 @@
 # Olá, me chamo Vitor Silva!
 ## Bem vindo ao meu perfil do GitHub 👋 
-- Atualmente estou estudando desenvolvimento web
+- Atualmente estou estudando desenvolvimento Backend.
+- Gosto de desenvolver o backend das aplicações, mas quando o projeto se faz necessário de uma interface densenvolvo de modo SSR (Server Side Rendering).
 
 ## Ferramentas e Tecnologias
 <div style="display: flex;">
